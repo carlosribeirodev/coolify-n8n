@@ -1,0 +1,3 @@
+# Local testing files (see README "Run it locally")
+.env
+docker-compose.override.yml
